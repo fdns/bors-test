@@ -1,3 +1,2 @@
-status = ["docker"]
+status = ["build"]
 delete-merged-branches = true
-
